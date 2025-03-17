@@ -3,7 +3,7 @@
   "info" : {
     "description" : "Connector of useful tools for making simpler, faster and easier Flows",
     "version" : "1",
-    "title" : "Composer by Tachytelic"
+    "title" : "Composer"
   },
   "host" : "api.powertools.tachytelic.net",
   "basePath" : "/PowerToolsFunctions",
